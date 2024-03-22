@@ -9,8 +9,8 @@ from pyrogram import filters
 if os.path.exists("Internal"):
   load_dotenv("Internal")
 
-API_ID = int(getenv("28916182"))
-API_HASH = getenv("d1b35f94f2b90716d76f8f318abedce9")
+API_ID = int(getenv("API_ID"))
+API_HASH = getenv("API_HASH")
 BOT_ID = int(getenv("BOT_ID", ""))
 BOT_TOKEN = getenv("BOT_TOKEN")
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ ! .").split())
