@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
-      ʙɪᴋᴀꜱʜ ᴍᴜꜱɪᴄ 2.0
+      𝐁𝐥𝐚𝐜𝐤𝐋𝐨𝐯𝐞𝐫 2.0
 </h2>
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/4d7a997a6c8c4eb406829.jpg">
+  <img src="https://telegra.ph/file/2b6c161b2e9968c8ccc55.jpg">
 </p>
 
 
@@ -90,7 +90,7 @@ hieght="38.30" /></a>
 
 <h4>Click the button below to deploy on Okteto!</h4>
 
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/BikashHalderNew/Bgtplayer">
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/BLACKLOVER15/BlackPlayer">
   <img
 src="https://img.shields.io/badge/Deploy%20On%20Okteto-lightpink?style=for-the-badge&logo=Okteto" width="220""/>
 </a>
@@ -108,10 +108,10 @@ src="https://img.shields.io/badge/Deploy%20On%20Mogenius-grey?style=for-the-badg
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚈 :
-Check Out [Necessary Variables Here](https://github.com/BikashHalderNew/Bgtplayer/blob/bikash/Internal)
+Check Out [Necessary Variables Here](https://github.com/BlackPlayer/BLACKLOVER15/blob/black/Internal)
 fill these vars
 
-<a href="https://railway.app/new/template?template=https://github.com/BikashHalderNew/Bgtplayer-Deploy&envs=STRING_SESSION,BOT_TOKEN,OWNER_ID,MONGO_DB_URI,API_ID,API_HASH"><img src="https://railway.app/button.svg" alt="Deploy on Railway" /></a>
+<a href="https://railway.app/new/template?template=https://github.com/BLACKLOVER15/BlackPlayer-Deploy&envs=STRING_SESSION,BOT_TOKEN,OWNER_ID,MONGO_DB_URI,API_ID,API_HASH"><img src="https://railway.app/button.svg" alt="Deploy on Railway" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -119,7 +119,7 @@ fill these vars
 <h4>Click On the below button to deploy on scalingo<h4>
 
 <a
-href="https://scalingo.com/deploy?template=https://github.com/BikashHalderNew/Bgtplayer"><img src="https://img.shields.io/badge/Deploy%20On%20Scalingo-silver?style=for-the-badge&logo=Scalingo" width="220"
+href="https://scalingo.com/deploy?template=https://github.com/BLACKLOVER15/BlackPlayer"><img src="https://img.shields.io/badge/Deploy%20On%20Scalingo-silver?style=for-the-badge&logo=Scalingo" width="220"
 hieght="38.30" /></a>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -128,7 +128,7 @@ hieght="38.30" /></a>
 <h4>Click On the below button to deploy on uffizzi platform!<h4>
 
 <a
-href="https://uffizzi.com/deploy?template=https://github.com/BikashHalderNew/Bgtplayer"><img src="https://img.shields.io/badge/Deploy%20On%20Uffizzi-gold?style=for-the-badge&logo=Uffizzi" width="220"
+href="https://uffizzi.com/deploy?template=https://github.com/BLACKLOVER15/BlackPlayer"><img src="https://img.shields.io/badge/Deploy%20On%20Uffizzi-gold?style=for-the-badge&logo=Uffizzi" width="220"
 hieght="38.30" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -138,7 +138,7 @@ hieght="38.30" /></a>
 <h4>Click the button below to deploy Bikash Music Bot on Heroku!</h4>    
 
 <a
-href="https://heroku.com/deploy?template=https://github.com/BikashHalderNew/Bgtplayer"><img src="https://img.shields.io/badge/Deploy%20On%20Heroku-seagreen?style=for-the-badge&logo=Heroku" width="220"
+href="https://heroku.com/deploy?template=https://github.com/BLACKLOVER15/BlackPlayer"><img src="https://img.shields.io/badge/Deploy%20On%20Heroku-seagreen?style=for-the-badge&logo=Heroku" width="220"
 hieght="38.30" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -146,14 +146,14 @@ hieght="38.30" /></a>
 ## Clever Cloud Deployment :
 
 <a
-href="https://www.clever-cloud.com/deploy?template=https://github.com/BikashHalderNew/Bgtplayer"><img src="https://img.shields.io/badge/Deploy%20Clever%20Cloud-blue?style=for-the-badge&logo=Clever" width="220"
+href="https://www.clever-cloud.com/deploy?template=https://github.com/BLACKLOVER15/BlackPlayer"><img src="https://img.shields.io/badge/Deploy%20Clever%20Cloud-blue?style=for-the-badge&logo=Clever" width="220"
 hieght="38.30" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ 📡 :
 
-- Get your [Necessary Variables](https://github.com/BikashHalderNew/Bgtplayer/blob/bikash/Internal)
+- Get your [Necessary Variables](https://github.com/BLACKLOVER15/BlackPlayer/blob/black/Internal)
 
 - Upgrade and Update by :
 ``sudo apt-get update && sudo apt-get upgrade -y``
@@ -199,7 +199,7 @@ Press ``Ctrl+C `` when you're done with editing env and ``:wq`` to save the env<
 
 ## 🖥️ Owner Of This Repository :
 
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+[![Blacklover](https://telegra.ph/file/2b6c161b2e9968c8ccc55.jpg)](https://t.me/Blackl0ver_uff)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
