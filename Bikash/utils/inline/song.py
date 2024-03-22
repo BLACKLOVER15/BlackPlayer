@@ -15,7 +15,7 @@ def song_markup(_, vidid):
         ],
         [           
             InlineKeyboardButton(
-                text="📱 YouTube 📱", url=f"https://youtube.com/@BikashGadgetsTech"
+                text="📱 YouTube 📱", url=f"https://youtube.com/@techboydeepak?si=5UIQW6PWPH9NL5bX"
             ),
         ],
         [
