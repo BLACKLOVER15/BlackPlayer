@@ -215,7 +215,7 @@ async def add_playlist(client, CallbackQuery, _):
     try:
         title = (title[:30]).title()
         return await CallbackQuery.message.reply_text(
-            text="☘ Successfully Playlist Added.\n │\n └Requested By : {0} \n\n Powered By  [BgT](https://t.me/BikashGadGetsTech)".format(CallbackQuery.from_user.mention),
+            text="☘ Successfully Playlist Added.\n │\n └Requested By : {0} \n\n Powered By  [BlackLover](https://t.me/Herokusellers)".format(CallbackQuery.from_user.mention),
             reply_markup=close_keyboard,
         )
     except Exception as e:
